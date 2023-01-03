@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-I am at main
-=======
-QQQQQQQQQQQQQQQQQQQQQQQQQ
->>>>>>> 4e7e55dab1463c147bd82153923d3d73de6562ef
+Going from main local to log1 remote
