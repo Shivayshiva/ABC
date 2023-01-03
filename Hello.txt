@@ -1,1 +1,1 @@
-Hello, I am in Log1. And going to main
+Log1 ----> main
