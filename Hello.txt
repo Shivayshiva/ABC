@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Log1 ----> main
-=======
-GIT Fetch
->>>>>>> e556c3549ce072aa128b578b244da764e8291006
-=======
-LOG1 LOG1 LOG1
->>>>>>> bee236e9bc5186187a08b13bc84263902fccb877
